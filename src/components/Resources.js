@@ -2,7 +2,7 @@ import React from "react";
 
 const resources = () => {
   return (
-    <section className="">
+    <section className="dark:bg-black dark:text-white">
       <div className="container flex flex-col justify-center p-4 mx-auto md:p-8">
         <p className="p-2 text-sm font-primaryHeader tracking-wider text-center uppercase">
           Trujillo Media
