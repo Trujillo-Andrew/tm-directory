@@ -87,6 +87,12 @@ const resources = () => {
             <a href="https://www.freeformatter.com/usa-state-list-html-select.html"><h3 className="text-lg hover:text-brandColor hover:underline">US State List</h3></a>
             
           </div>
+          <div>
+            <a href="https://www.xml-sitemaps.com/"><h3 className="text-lg hover:text-brandColor hover:underline">XML Site Map Generator</h3></a>
+            
+          </div>
+
+          
         </div>
       </div>
     </section>
