@@ -32,7 +32,11 @@ const Home = () => {
             
           </div>
           <div>
-            <a href="https://www.zoho.com/assist/"><h3 className="text-lg hover:text-brandColor hover:underline">ZOHO Assist</h3></a>
+            <a href="https://assist.zoho.com/org/785895746/app/home"><h3 className="text-lg hover:text-brandColor hover:underline">ZOHO Assist</h3></a>
+            
+          </div>
+          <div>
+            <a href="https://social.zoho.com/social/andrewtrujillo/1222817000000018021/Home.do#home"><h3 className="text-lg hover:text-brandColor hover:underline">ZOHO Social</h3></a>
             
           </div>
           <div>
@@ -51,6 +55,8 @@ const Home = () => {
             <a href="https://www.udemy.com/"><h3 className="text-lg hover:text-brandColor hover:underline">Udemy</h3></a>
             
           </div>
+
+          
          
         </div>
       </div>
