@@ -55,6 +55,10 @@ const Home = () => {
             <a href="https://www.udemy.com/"><h3 className="text-lg hover:text-brandColor hover:underline">Udemy</h3></a>
             
           </div>
+          <div>
+            <a href="https://search.google.com/search-console?utm_source=about-page&resource_id=sc-domain:trujillomedia.com"><h3 className="text-lg hover:text-brandColor hover:underline">Udemy</h3></a>
+            
+          </div>
 
           
          
