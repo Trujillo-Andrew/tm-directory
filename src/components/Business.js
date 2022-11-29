@@ -15,14 +15,7 @@ const Home = () => {
             <a href="https://www.trujillomedia.com/"><h3 className="text-lg hover:text-brandColor hover:underline">Trujillo Media Website</h3></a>
             
           </div>
-          <div>
-            <a href="https://app.netlify.com/teams/trujillo-media/overview?_ga=2.134060234.531805502.1641834033-740779211.1641834033"><h3 className="text-lg hover:text-brandColor hover:underline">Netlify</h3></a>
-            
-          </div>
-          <div>
-            <a href="https://analytics.google.com/analytics/web/#/report-home/a216862994w299064893p258251098"><h3 className="text-lg hover:text-brandColor hover:underline">Google Analytics</h3></a>
-            
-          </div>
+          
           <div>
             <a href="https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage"><h3 className="text-lg hover:text-brandColor hover:underline">OneDrive</h3></a>
             
@@ -31,14 +24,7 @@ const Home = () => {
             <a href="https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000006-0000-0ff1-ce00-000000000000&response_type=code%20id_token&scope=openid%20profile&state=OpenIdConnect.AuthenticationProperties%3DhSzishUN5134zcV5HVnxt6H-EzyKzpYCCCmYKDH5rJRexKFuMLpsQwjDdQI9Gs3UmS_8d2N1AfkE7f5WdvTcfk0LL6azShmVbuk_rNJhe1G-NLuuuc7ImtAJ1qIejiDuMm_H54fTLbFyKD9CLgygKGnuoXPmk8qdUivdzjRPUpMIBjxnfIJQmOwArjday9XP&response_mode=form_post&nonce=637881417548209535.OTE1YmY5MzUtN2UzMy00ZDMwLWE1NjAtNTJkMGE4NGFhODVjYWU1ZGQwMmUtMTZmNC00M2YzLWJhODMtY2VjNjE2ZmE4MzZh&redirect_uri=https%3A%2F%2Fadmin.microsoft.com%2Flanding&ui_locales=en-US&mkt=en-US&client-request-id=4c804a76-b2fe-4fc8-8593-f7e81b318239&x-client-SKU=ID_NET45&x-client-ver=6.12.1.0"><h3 className="text-lg hover:text-brandColor hover:underline">Microsoft Admin</h3></a>
             
           </div>
-          <div>
-            <a href="https://assist.zoho.com/org/785895746/app/home"><h3 className="text-lg hover:text-brandColor hover:underline">ZOHO Assist</h3></a>
-            
-          </div>
-          <div>
-            <a href="https://social.zoho.com/social/andrewtrujillo/1222817000000018021/Home.do#home"><h3 className="text-lg hover:text-brandColor hover:underline">ZOHO Social</h3></a>
-            
-          </div>
+          
           <div>
             <a href="https://www.dnb.com/"><h3 className="text-lg hover:text-brandColor hover:underline">D-U-N-S</h3></a>
             
@@ -56,7 +42,7 @@ const Home = () => {
             
           </div>
           <div>
-            <a href="https://search.google.com/search-console?utm_source=about-page&resource_id=sc-domain:trujillomedia.com"><h3 className="text-lg hover:text-brandColor hover:underline">Udemy</h3></a>
+            <a href="https://search.google.com/search-console?utm_source=about-page&resource_id=sc-domain:trujillomedia.com"><h3 className="text-lg hover:text-brandColor hover:underline">Search Console</h3></a>
             
           </div>
 

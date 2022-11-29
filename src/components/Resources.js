@@ -59,10 +59,7 @@ const resources = () => {
             <a href="https://worldvectorlogo.com/"><h3 className="text-lg hover:text-brandColor hover:underline">World Vector Logos</h3></a>
             
           </div>
-          <div>
-            <a href="https://snipit.io/lists/20305/65822"><h3 className="text-lg hover:text-brandColor hover:underline">Snipits</h3></a>
-            
-          </div>
+          
           <div>
             <a href="https://www.pexels.com/"><h3 className="text-lg hover:text-brandColor hover:underline">Pexels</h3></a>
             
