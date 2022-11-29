@@ -15,6 +15,9 @@ const Home = () => {
             <a href="https://reverent-kalam-97ecca.netlify.app/"><h3 className="text-lg hover:text-brandColor hover:underline">Asana</h3></a> 
           </div>
           <div>
+            <a href="https://gallery.pixieset.com/dashboard/"><h3 className="text-lg hover:text-brandColor hover:underline">PixieSet</h3></a> 
+          </div>
+          <div>
             <a href="https://assist.zoho.com/org/785895746/app/home"><h3 className="text-lg hover:text-brandColor hover:underline">ZOHO Assist</h3></a>
             
           </div>
@@ -31,7 +34,7 @@ const Home = () => {
             
           </div>
           <div>
-            <a href="https://app.asana.com/0/home/1203458594253438"><h3 className="text-lg hover:text-brandColor hover:underline">Hubstaff</h3></a>
+            <a href="https://app.hubstaff.com/dashboard/420003/team"><h3 className="text-lg hover:text-brandColor hover:underline">Hubstaff</h3></a>
             
           </div>
           <div>

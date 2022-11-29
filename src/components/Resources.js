@@ -28,10 +28,6 @@ const resources = () => {
             
           </div>
           <div>
-            <a href="https://www.favicon.cc/"><h3 className="text-lg hover:text-brandColor hover:underline">Favicon Generator</h3></a>
-            
-          </div>
-          <div>
             <a href="https://tailwindcss.com/docs/installation"><h3 className="text-lg hover:text-brandColor hover:underline">Tailwind Css Docs</h3></a>
             
           </div>
