@@ -45,6 +45,10 @@ const Home = () => {
             <a href="https://www.favicon.cc/"><h3 className="text-lg hover:text-brandColor hover:underline">Favicon Generator</h3></a>
             
           </div>
+          <div>
+            <a href="https://www.seobility.net/en/seocheck/"><h3 className="text-lg hover:text-brandColor hover:underline">SEO Audit Tool</h3></a>
+            
+          </div>
           
           
         </div>
